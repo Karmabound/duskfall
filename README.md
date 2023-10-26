@@ -8,7 +8,7 @@ A lightweight RPG Modpack with an emphasis on magic, player empowerment, self-ex
 - 🗺️ Overhauled World Generation for the Overworld, Nether and End. Also adds the **Twilight Forest**!
 - ⚔️ Progressively increasing game difficulty over time.
 - 💎 Magical Rituals used for crafting, growing crops and protecting others.
-- 🏹 Lots and lots of new enemies and bosses, ready to be defeated by you.
+- 🏹 Hundreds of new enemies and bosses, ready to be defeated by you.
 - 🏘️ Many village-related features like **Recruits** and **CT's Overhauled Village**.
 - 📈 Performance enhancing mods like **Rubidium**, **FerriteCore** and **LazyDFU**.
 - ⚙️ Various QOL mods such as: **Quark**, **Heartstone** and **Shield Expansion**.
