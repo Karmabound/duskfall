@@ -23,5 +23,4 @@ A lightweight RPG Modpack with an emphasis on magic, player empowerment, self-ex
 ### Performance
 - It is recommended to allocate atleast 4GB of RAM to your Minecraft instance for optimal performance.
 - For servers, it is recommended to allocate atleast 6GB RAM for optimal performance.
-- To install Spellbound on a server, please refer to these [links](https://docs.modrinth.com/modpacks/play).
 - *Keep in mind that the modpack is still in development, some issues might arise!*
