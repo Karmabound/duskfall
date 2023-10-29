@@ -16,9 +16,9 @@ A lightweight RPG Modpack with an emphasis on magic, player empowerment, self-ex
 - 🚀 And much more!
 
 ### Upcoming Features
-- 🛡️ A class system (made in Origins), with 5 custom-made classes, the **Archer, Assassin, Mage, Warrior and Paladin**. -> **Planned for Full Release**
-- 🗿 RPG Modifications such as removed hunger, reworked durability and a souls-like death experience! 
- --> **Planned for Full Release**
+- 🛡️ A class system (made in Origins), with 5 custom-made classes, the **Archer, Assassin, Mage, Warrior and Paladin**. -> **Planned for Beta Release**
+- 🗿 RPG Modifications such as removed hunger, reworked durability, a souls-like death experience and skill levelling! 
+  -> **Planned for Alpha-3**
 
 ### Performance
 - It is recommended to allocate atleast 4GB of RAM to your Minecraft instance for optimal performance.
