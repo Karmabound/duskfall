@@ -15,6 +15,9 @@ A lightweight RPG Modpack with an emphasis on magic, player empowerment, self-ex
 - ⚖️ 100+ Mods in the most recent modpack version!
 - 🚀 And much more!
 
+### Installation
+Go to the [releases](https://github.com/Karmabound/spellbound-modpack/releases) tab, then follow the instructions [here](https://pastebin.com/fih4xNxq).
+
 ### Upcoming Features
 - 🛡️ A class system (made in Origins), with 5 custom-made classes, the **Archer, Assassin, Mage, Warrior and Paladin**. -> **Planned for Beta Release**
 - 🗿 RPG Modifications such as removed hunger, reworked durability, a souls-like death experience and skill levelling! 
