@@ -4,7 +4,7 @@ A lightweight RPG Modpack with an emphasis on magic, player empowerment, self-ex
 ### Modpack Features
 - 📚 Choose from over **55 upgradeable spells**, each with their own element and damage type.
 - 🏆 Multiplayer Looting Support, all chests are player-instanced, no need to race to loot!
-- 🗡️ Many new armor sets and unique weapons, ready to be collected!
+- 🗡️ Many new armor sets and unique weapons, along with a more advanced combat system.
 - ⚔️ RPG-like progression system that allows you to level up your character's skills.
 - 🗺️ Overhauled World Generation for the Overworld, Nether and End, along with hundreds of new structures.
 - ⚔️ Progressively increasing game difficulty over time, mobs grow stronger the further away from spawn you are.
