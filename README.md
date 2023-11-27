@@ -9,7 +9,7 @@ A lightweight RPG Modpack with an emphasis on magic, player empowerment, self-ex
 - 🗺️ Overhauled World Generation for the Overworld, Nether and End, along with hundreds of new structures.
 - ⚔️ Progressively increasing game difficulty over time, mobs grow stronger the further away from spawn you are.
 - 💎 Dark and Holy Magical Rituals used for crafting, growing an undead army or protecting others.
-- 🧰 Aesthetic technology that empowers the player, courtesy of **Create**.
+- 🧰 Aesthetic technology that empowers the player, i.e **Create**.
 - 🏹 Hundreds of new enemies and bosses, ready to be defeated by you.
 - 🏘️ Many village-related features like **Guard Villagers** and **Savage & Ravage**.
 - 📈 Performance enhancing mods like **Embeddium**, **FerriteCore** and **LazyDFU**.
