@@ -5,23 +5,24 @@ A lightweight RPG Modpack with an emphasis on magic, player empowerment, self-ex
 - 📚 Choose from over **55 upgradeable spells**, each with their own element and damage type.
 - 🏆 Multiplayer Looting Support, all chests are player-instanced, no need to race to loot!
 - 🗡️ Many new armor sets and unique weapons, ready to be collected!
-- 🗺️ Overhauled World Generation for the Overworld, Nether and End. Also adds the **Twilight Forest**!
-- ⚔️ Progressively increasing game difficulty over time.
-- 💎 Magical Rituals used for crafting, growing crops and protecting others.
+- ⚔️ RPG-like progression system that allows you to level up your character's skills.
+- 🗺️ Overhauled World Generation for the Overworld, Nether and End, along with hundreds of new structures.
+- ⚔️ Progressively increasing game difficulty over time, mobs grow stronger the further away from spawn you are.
+- 💎 Dark and Holy Magical Rituals used for crafting, growing an undead army or protecting others.
+- 🧰 Aesthetic technology that empowers the player, courtesy of **Create**.
 - 🏹 Hundreds of new enemies and bosses, ready to be defeated by you.
-- 🏘️ Many village-related features like **Recruits** and **CT's Overhauled Village**.
-- 📈 Performance enhancing mods like **Rubidium**, **FerriteCore** and **LazyDFU**.
+- 🏘️ Many village-related features like **Guard Villagers** and **Savage & Ravage**.
+- 📈 Performance enhancing mods like **Embeddium**, **FerriteCore** and **LazyDFU**.
 - ⚙️ Various QOL mods such as: **Quark**, **Heartstone** and **Shield Expansion**.
-- ⚖️ 100+ Mods in the most recent modpack version!
+- ⚖️ 120+ Mods in the most recent modpack version!
 - 🚀 And much more!
 
 ### Installation
 Go to the [releases](https://github.com/Karmabound/spellbound-modpack/releases) tab, then follow the instructions [here](https://pastebin.com/fih4xNxq).
 
 ### Upcoming Features
-- 🛡️ A class system (made in Origins), with 5 custom-made classes, the **Archer, Assassin, Mage, Warrior and Paladin**. -> **Planned for Beta Release**
-- 🗿 RPG Modifications such as removed hunger, reworked durability, a souls-like death experience and skill levelling! 
-  -> **Planned for Alpha-3**
+- 🛡️ A class system (made in Origins), with 5 custom-made classes, the **Archer, Assassin, Mage, Warrior and Paladin**. -> **Planned for Full Release**
+- 🧾 Economy and Server related mods such as **Simple Shops**, **Coins JE** and **Player Trading**. -> **Planned for Beta-2**
 
 ### Performance
 - It is recommended to allocate atleast 4GB of RAM to your Minecraft instance for optimal performance.
