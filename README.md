@@ -22,7 +22,6 @@ Go to the [releases](https://github.com/Karmabound/spellbound-modpack/releases) 
 
 ### Upcoming Features
 - 🛡️ A class system (made in Origins), with 5 custom-made classes, the **Archer, Assassin, Mage, Warrior and Paladin**. -> **Planned for Full Release**
-- 🧾 Economy and Server related mods such as **Simple Shops**, **Coins JE** and **Player Trading**. -> **Planned for Beta-2**
 
 ### Performance
 - It is recommended to allocate atleast 4GB of RAM to your Minecraft instance for optimal performance.
