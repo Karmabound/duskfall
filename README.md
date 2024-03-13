@@ -15,7 +15,7 @@ A roguelike modpack for Minecraft with an emphasis on magic, exploration, combat
 - 🚀 And much more!
 
 ### Installation
-Go to the [releases](https://github.com/Karmabound/spellbound-modpack/releases) tab, then follow the instructions [here](https://pastebin.com/fih4xNxq).
+Go to the [releases](https://github.com/Karmabound/spellbound-modpack/releases) tab, then follow the instructions [here](https://support.curseforge.com/en/support/solutions/articles/9000197912-exporting-and-importing-modpacks).
 
 ### Performance
 - It is recommended to allocate atleast 4GB of RAM to your Minecraft instance.
