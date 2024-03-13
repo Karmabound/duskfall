@@ -3,14 +3,14 @@ A roguelike modpack for Minecraft with an emphasis on magic, exploration, combat
 
 ### Modpack Features
 - 📚 Choose from over **60 upgradeable spells**, each with their own element and damage type.
-- 🏆 Multiplayer Looting Support, all chests are player-instanced, no need to race to loot!
-- 🗡️ 200+ new armor sets and unique weapons and new combat mechanics.
-- 🗺️ Overhauled World Generation for the Overworld, Nether and End, along with hundreds of new structures.
-- ⚔️ Progressively increasing game difficulty over time, mobs grow stronger the further away from spawn you are.
-- 🏹 Hundreds of new enemies and bosses, ready to be defeated by you.
-- 🏘️ Many village-related mods like **Guard Villagers** and **Savage&Ravage**.
-- 📈 Performance enhancing mods like **Embeddium**, **FerriteCore** and **LazyDFU**.
-- ⚙️ Various QOL and Building mods such as: **Quark**, **Supplementaries** and **Handcrafted**.
+- 🗡️ 200+ new armor sets, artifacts and unique weapons with special modifiers and enchants along with new combat mechanics.
+- ⚔️ Progressively increasing game difficulty over time, mobs grow stronger over time and the further away from spawn you are.
+- 🗺️ Overhauled World Generation for the Overworld, Nether and End, along with 500+ new structures, all fantasy themed!
+- 🏹 Take down elemental dragons, mythical creatures, stalker spirits or abstract creatures beyond your human comprehension!
+- 🏆 Multiplayer looting support, all chests are player-instanced, no need to race to loot!
+- 🏘️ Protect your villages from massive raids with the help of villagers, who learned to wield weapons!
+- 📈 Performance enhancing mods that allow the modpack to run even on really low end systems.
+- ⚙️ Various QOL and Building mods to satisfy those who want to sit at home sometimes.
 - ⚖️ 160+ Mods in the most recent modpack version!
 - 🚀 And much more!
 
