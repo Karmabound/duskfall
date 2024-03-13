@@ -1,5 +1,5 @@
-# **SPELLBOUND ☯ MODPACK**
-A lightweight RPG Modpack for Minecraft with an emphasis on magic, exploration, self-expression and building. Made in 1.19.2.
+![image](https://github.com/Karmabound/spellbound-modpack/assets/148703029/7d1fdc71-fe1b-4205-8d0c-76230127617a)
+A roguelike modpack for Minecraft with an emphasis on magic, exploration, combat and self-expression. Made for Forge 1.19.2 only.
 
 ### Modpack Features
 - 📚 Choose from over **60 upgradeable spells**, each with their own element and damage type.
