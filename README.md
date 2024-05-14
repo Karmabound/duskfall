@@ -1,16 +1,21 @@
 ![image](https://github.com/Karmabound/spellbound-modpack/assets/148703029/7d1fdc71-fe1b-4205-8d0c-76230127617a)
-A roguelike modpack for Minecraft with an emphasis on magic, exploration, combat and self-expression. Made for Forge 1.19.2 only.
+... is a challenging Roguelike Modpack made for Minecraft with an emphasis on exploration, combat and magic. 
+
+Keep in mind that this modpack was made for 3+ people and there's **constantly scaling difficulty**, if you ever feel like you're behind on progression, just start another run!
 
 ### Modpack Features
-- 📚 Choose from over **60 upgradeable spells**, each with their own element and damage type.
-- 🗡️ 200+ new armor sets, artifacts and unique weapons with special modifiers and enchants along with new combat mechanics.
+- ⚜️ 9 Custom Classes to choose from, each with their distinct playstyles and abilities!
+- 📚 Add over **70 upgradeable spells** to your arsenal, each with their own element and damage type.
+- 🗡️ 200+ new gear items: armor sets, unique weapons, spellbooks, artifacts and gadgets.
+- 🎇 Major weapon and armor customization with affixes, gem slots and unique passives!
 - ⚔️ Progressively increasing game difficulty over time, mobs grow stronger over time and the further away from spawn you are.
 - 🗺️ Overhauled World Generation for the Overworld, Nether and End, along with 500+ new structures, all fantasy themed!
-- 🏹 Take down elemental dragons, mythical creatures, stalker spirits or abstract creatures beyond your human comprehension!
-- 🏆 Multiplayer looting support, all chests are player-instanced, no need to race to loot!
-- 🏘️ Protect your villages from massive raids with the help of villagers, who learned to wield weapons!
-- 📈 Performance enhancing mods that allow the modpack to run even on really low end systems.
-- ⚙️ Various QOL and Building mods to satisfy those who want to sit at home sometimes.
+- 🏹 Hundreds of new enemies: elemental dragons, mythical beasts or abstract creatures beyond your human comprehension!
+- 🏆 Built-in multiplayer hosting with e4mc, no need to buy a dedicated server for you and your friends!
+- 🏘️ Expanded villages with extra mechanics: guardian villagers, powerful new illagers and stealth mechanics!
+- 📈 Performance enhancing mods that allow the modpack to run even on low end systems.
+- 💥 Instant kill prevention from one-taps and player revives when you have friends with you, no more unfair deaths!
+- ⚙️ Improvements to all non-combat areas, for when you want to take a break from the fight.
 - ⚖️ 160+ Mods in the most recent modpack version!
 - 🚀 And much more!
 
