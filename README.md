@@ -16,7 +16,7 @@ Keep in mind that this modpack was made for 3+ people and there's **constantly s
 - 📈 Performance enhancing mods that allow the modpack to run even on low end systems.
 - 💥 Instant kill prevention from one-taps and player revives when you have friends with you, no more unfair deaths!
 - ⚙️ Improvements to all non-combat areas, for when you want to take a break from the fight.
-- ⚖️ 160+ Mods in the most recent modpack version!
+- ⚖️ 180+ Mods in the most recent modpack version!
 - 🚀 And much more!
 
 ### Installation
