@@ -26,3 +26,5 @@ Go to the [releases](https://github.com/Karmabound/spellbound-modpack/releases) 
 - It is recommended to allocate atleast 4GB of RAM to your Minecraft instance.
 - For servers, it is recommended to allocate atleast 6GB RAM for optimal performance.
 - *Keep in mind that the modpack is still in development, some issues might arise!*
+
+![caption](https://github.com/Karmabound/spellbound-modpack/assets/148703029/ebb8c3bc-68a5-4f24-9a82-1f5c683c9721)
