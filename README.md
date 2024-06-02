@@ -23,8 +23,8 @@ Keep in mind that this modpack was made for 3+ people and there's **constantly s
 Go to the [releases](https://github.com/Karmabound/spellbound-modpack/releases) tab, then follow the instructions [here](https://support.curseforge.com/en/support/solutions/articles/9000197912-exporting-and-importing-modpacks).
 
 ### Performance
-- It is recommended to allocate atleast 4GB of RAM to your Minecraft instance.
-- For servers, it is recommended to allocate atleast 6GB RAM for optimal performance.
+- It is recommended to allocate atleast 5GB of RAM to your Minecraft instance to not experience constant lag spikes.
+- If you're hosting a world, make sure to have 6GB RAM or more allocated.
 - *Keep in mind that the modpack is still in development, some issues might arise!*
 
 ![caption](https://github.com/Karmabound/spellbound-modpack/assets/148703029/ebb8c3bc-68a5-4f24-9a82-1f5c683c9721)
