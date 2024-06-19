@@ -2,6 +2,7 @@
 ... is a challenging Roguelike Modpack made for Minecraft with an emphasis on exploration, combat and magic. 
 
 Keep in mind that this modpack was made for 3+ people and there's **constantly scaling difficulty**, if you ever feel like you're behind on progression, just start another run!
+**Full Release coming August 2024!**
 
 ### Modpack Features
 - ⚜️ 6 Custom Classes to choose from, each with their distinct playstyles and abilities!
