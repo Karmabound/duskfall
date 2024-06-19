@@ -4,7 +4,7 @@
 Keep in mind that this modpack was made for 3+ people and there's **constantly scaling difficulty**, if you ever feel like you're behind on progression, just start another run!
 
 ### Modpack Features
-- ⚜️ 9 Custom Classes to choose from, each with their distinct playstyles and abilities!
+- ⚜️ 6 Custom Classes to choose from, each with their distinct playstyles and abilities!
 - 📚 Add over **70 upgradeable spells** to your arsenal, each with their own element and damage type.
 - 🗡️ 200+ new gear items: armor sets, unique weapons, spellbooks, artifacts and gadgets.
 - 🎇 Major weapon and armor customization with affixes, gem slots and unique passives!
