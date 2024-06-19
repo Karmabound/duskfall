@@ -1,4 +1,4 @@
-![image](https://github.com/Karmabound/spellbound-modpack/assets/148703029/7d1fdc71-fe1b-4205-8d0c-76230127617a)
+![image](https://github.com/Karmabound/duskfall/assets/148703029/98d40529-972a-472e-b5f1-b7db79c5ae1f)
 ... is a challenging Roguelike Modpack made for Minecraft with an emphasis on exploration, combat and magic. 
 
 Keep in mind that this modpack was made for 3+ people and there's **constantly scaling difficulty**, if you ever feel like you're behind on progression, just start another run!
