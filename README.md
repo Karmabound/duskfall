@@ -27,3 +27,5 @@ Go to the [releases](https://github.com/Karmabound/spellbound-modpack/releases) 
 - It is recommended to allocate atleast 5GB of RAM to your Minecraft instance to not experience constant lag spikes.
 - If you're hosting a world, make sure to have 6GB RAM or more allocated.
 - *Keep in mind that the modpack is still in development, some issues might arise!*
+
+![caption](https://github.com/Karmabound/duskfall/assets/148703029/c992d72b-7170-48ff-98c7-1f3b7787de22)
